@@ -1,0 +1,124 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{SCA2014}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=058cd245eaa09ac35901dd3696405481}{%
+           family={Alliance},
+           familyi={A\bibinitperiod},
+           given={Smart\bibnamedelima Card},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{058cd245eaa09ac35901dd3696405481}
+      \strng{fullhash}{058cd245eaa09ac35901dd3696405481}
+      \strng{bibnamehash}{058cd245eaa09ac35901dd3696405481}
+      \strng{authorbibnamehash}{058cd245eaa09ac35901dd3696405481}
+      \strng{authornamehash}{058cd245eaa09ac35901dd3696405481}
+      \strng{authorfullhash}{058cd245eaa09ac35901dd3696405481}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Smart Card Alliance Mobile \& NFC Counci White Paper - Host Card Emulation (HCE) 101}
+      \field{year}{2014}
+      \verb{file}
+      \verb :/Users/thibautmaddelein/Documents/school/2018-2019/bachelorproef/literatuurstudie/HCE-101-WP-FINAL-081114-clean.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Borko2014}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=1dc86f41eb37654c2ccd11fbc6ff06c3}{%
+           family={Lepojevic},
+           familyi={L\bibinitperiod},
+           given={Borko},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4280781bbad306009b4fd4005cfdc83c}{%
+           family={Pavlovic},
+           familyi={P\bibinitperiod},
+           given={Bojan},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=98d6e4f24830504b85d2c602a961c13d}{%
+           family={Radulovic},
+           familyi={R\bibinitperiod},
+           given={Aleksandar},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6b5d5c8bc1507a08706179e581e35fd4}
+      \strng{fullhash}{b64dde1e0fbfba3c6c45344a6550db41}
+      \strng{bibnamehash}{b64dde1e0fbfba3c6c45344a6550db41}
+      \strng{authorbibnamehash}{b64dde1e0fbfba3c6c45344a6550db41}
+      \strng{authornamehash}{6b5d5c8bc1507a08706179e581e35fd4}
+      \strng{authorfullhash}{b64dde1e0fbfba3c6c45344a6550db41}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Implementing NFC Service Security}
+      \field{year}{2014}
+      \verb{file}
+      \verb :/Users/thibautmaddelein/Documents/school/2018-2019/bachelorproef/literatuurstudie/ImplementingNFCservicesecurity-SEvsTEEvsHCE.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Pollefliet2011}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=7ca343ebcc6de1727ac22a1a847c21e5}{%
+           family={Pollefliet},
+           familyi={P\bibinitperiod},
+           given={Leen},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Gent}%
+      }
+      \list{publisher}{1}{%
+        {Academia Press}%
+      }
+      \strng{namehash}{7ca343ebcc6de1727ac22a1a847c21e5}
+      \strng{fullhash}{7ca343ebcc6de1727ac22a1a847c21e5}
+      \strng{bibnamehash}{7ca343ebcc6de1727ac22a1a847c21e5}
+      \strng{authorbibnamehash}{7ca343ebcc6de1727ac22a1a847c21e5}
+      \strng{authornamehash}{7ca343ebcc6de1727ac22a1a847c21e5}
+      \strng{authorfullhash}{7ca343ebcc6de1727ac22a1a847c21e5}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Schrijven van verslag tot eindwerk: do's en don'ts}
+      \field{year}{2011}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

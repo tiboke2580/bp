@@ -1,0 +1,18 @@
+[1] Config.pm:302> INFO - This is Biber 2.11
+[1] Config.pm:305> INFO - Logfile is 'bachproef-tin.blg'
+[56] biber-darwin:313> INFO - === Sat Apr 13, 2019, 16:33:29
+[84] Biber.pm:371> INFO - Reading 'bachproef-tin.bcf'
+[201] Biber.pm:857> INFO - Found 3 citekeys in bib section 0
+[219] Biber.pm:3976> INFO - Processing section 0
+[233] Biber.pm:4136> INFO - Looking for bibtex format file 'bachproef-tin.bib' for section 0
+[234] bibtex.pm:1500> INFO - LaTeX decoding ...
+[242] bibtex.pm:1316> INFO - Found BibTeX data source 'bachproef-tin.bib'
+[250] Biber.pm:4136> INFO - Looking for bibtex format file '../voorstel/voorstel.bib' for section 0
+[252] bibtex.pm:1500> INFO - LaTeX decoding ...
+[262] bibtex.pm:1316> INFO - Found BibTeX data source '../voorstel/voorstel.bib'
+[301] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[301] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[301] Biber.pm:3804> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
+[301] Biber.pm:3810> INFO - No sort tailoring available for locale 'nl-NL'
+[306] bbl.pm:617> INFO - Writing 'bachproef-tin.bbl' with encoding 'UTF-8'
+[309] bbl.pm:720> INFO - Output to bachproef-tin.bbl

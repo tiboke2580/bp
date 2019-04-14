@@ -1,0 +1,85 @@
+%==============================================================================
+% Sjabloon onderzoeksvoorstel bachelorproef
+%==============================================================================
+% Gebaseerd op LaTeX-sjabloon ‘Stylish Article’ (zie voorstel.cls)
+% Auteur: Jens Buysse, Bert Van Vreckem
+
+\documentclass[fleqn,10pt]{voorstel}
+
+%------------------------------------------------------------------------------
+% Metadata over het voorstel
+%------------------------------------------------------------------------------
+
+\JournalInfo{HoGent Bedrijf en Organisatie}
+\Archive{Bachelorproef 2018 - 2019} % Of: Onderzoekstechnieken
+
+%---------- Titel & auteur ----------------------------------------------------
+
+% TODO: geef werktitel van je eigen voorstel op
+\PaperTitle{Verschillende veiligheidsmethodes voor Android HCE (Host-based Card Emulation)}
+\PaperType{Onderzoeksvoorstel Bachelorproef} % Type document
+
+% TODO: vul je eigen naam in als auteur, geef ook je emailadres mee!
+\Authors{Thibaut Maddelein\textsuperscript{1}} % Authors
+\CoPromotor{Francesco Verheye\textsuperscript{2} (CCV Lab)}
+\affiliation{\textbf{Contact:}
+  \textsuperscript{1} \href{mailto:thibaut.maddelein.y9677@student.hogent.be}{thibaut.maddelein.y9677@student.hogent.be};
+  \textsuperscript{2} \href{mailto:f.verheye@ccvlab.eu}{f.verheye@ccvlab.eu};
+}
+
+%---------- Abstract ----------------------------------------------------------
+
+\Abstract{In deze Bachelorproef zal er onderzoek gedaan worden naar hoe je Android Host-based Card Emulation (HCE) op een veilige manier kan gebruiken. Aangezien er tegenwoordig allerlei smart-cards zoals bankkaarten, klantenkaarten, ... gedigitaliseerd worden zijn er vele use cases voor het gebruik van NFC techonologie. Vroeger kon dit enkel via een secure-element maar sinds Android4.4 (KitKat) kan men gebruik maken van Android HCE. Deze techniek brengt veel veiligheidsrisico's met zich mee zoals ongeëncrypteerde betalingsgegevens. Er zijn een aantal beveiligingsmaatregelen die geimplementeerd kunnen worden in de applicatie zodat het gebruik van Android HCE toch op een veilige manier kan gebruiken. Er zullen een aantal proof of concepts gemaakt worden met verschillende beveiligingsmaatregelen. De verschillende implementaties worden vergeleken op vlak van veiligheid en moeilijkheidsgraad om te implementeren. Hierbij wordt er verwacht dat de verschillende implementaties tot een veilige applicatie leiden. Verder lijkt de implementatie met biometrische factoren zoals vingerscan één van de veiligste oplossingen zal zijn en ook de meest gebruiksvriendelijke, omdat dit ten eerste zelf waargenomen kan worden door de gebruiker. Ten tweede geeft het een groter gevoel van veiligheid. Op dit moment zijn er al vele use cases waarin deze implementaties al gebruikt kunnen worden en er zullen er nog vele bijkomen in de toekomst.
+}
+
+%---------- Onderzoeksdomein en sleutelwoorden --------------------------------
+% TODO: Sleutelwoorden:
+%
+% Het eerste sleutelwoord beschrijft het onderzoeksdomein. Je kan kiezen uit
+% deze lijst:
+%
+% - Mobiele applicatieontwikkeling
+% - Webapplicatieontwikkeling
+% - Applicatieontwikkeling (andere)
+% - Systeembeheer
+% - Netwerkbeheer
+% - Mainframe
+% - E-business
+% - Databanken en big data
+% - Machineleertechnieken en kunstmatige intelligentie
+% - Andere (specifieer)
+%
+% De andere sleutelwoorden zijn vrij te kiezen
+
+\Keywords{Mobiele applicatieontwikkeling. Android --- Host-based Card Emulation --- NFC} % Keywords
+\newcommand{\keywordname}{Sleutelwoorden} % Defines the keywords heading name
+
+%---------- Titel, inhoud -----------------------------------------------------
+
+\begin{document}
+
+\flushbottom % Makes all text pages the same height
+\maketitle % Print the title and abstract box
+\tableofcontents % Print the contents section
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%------------------------------------------------------------------------------
+% Hoofdtekst
+%------------------------------------------------------------------------------
+
+% De hoofdtekst van het voorstel zit in een apart bestand, zodat het makkelijk
+% kan opgenomen worden in de bijlagen van de bachelorproef zelf.
+\input{voorstel-inhoud}
+
+%------------------------------------------------------------------------------
+% Referentielijst
+%------------------------------------------------------------------------------
+% TODO: de gerefereerde werken moeten in BibTeX-bestand ``voorstel.bib''
+% voorkomen. Gebruik JabRef om je bibliografie bij te houden en vergeet niet
+% om compatibiliteit met Biber/BibLaTeX aan te zetten (File > Switch to
+% BibLaTeX mode)
+
+\phantomsection
+\printbibliography[heading=bibintoc]
+
+\end{document}
