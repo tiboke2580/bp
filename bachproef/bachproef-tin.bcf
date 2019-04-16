@@ -2127,8 +2127,11 @@
   <bcf:section number="0">
     <bcf:citekey order="1">Pollefliet2011</bcf:citekey>
     <bcf:citekey order="2">SCA2014</bcf:citekey>
-    <bcf:citekey order="3">SCA2014</bcf:citekey>
-    <bcf:citekey order="4">Borko2014</bcf:citekey>
+    <bcf:citekey order="3">Alattar2014</bcf:citekey>
+    <bcf:citekey order="4">Alattar2014</bcf:citekey>
+    <bcf:citekey order="5">Alattar2014</bcf:citekey>
+    <bcf:citekey order="6">SCA2014</bcf:citekey>
+    <bcf:citekey order="7">Borko2014</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

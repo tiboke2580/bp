@@ -19,6 +19,34 @@
 
 \refsection{0}
   \datalist[entry]{apa/global//global/global}
+    \entry{Alattar2014}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=b2ae160af03bad8a4f400ee84bdd49aa}{%
+           family={Alattar},
+           familyi={A\bibinitperiod},
+           given={Mouhannad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b2ae160af03bad8a4f400ee84bdd49aa}
+      \strng{fullhash}{b2ae160af03bad8a4f400ee84bdd49aa}
+      \strng{bibnamehash}{b2ae160af03bad8a4f400ee84bdd49aa}
+      \strng{authorbibnamehash}{b2ae160af03bad8a4f400ee84bdd49aa}
+      \strng{authornamehash}{b2ae160af03bad8a4f400ee84bdd49aa}
+      \strng{authorfullhash}{b2ae160af03bad8a4f400ee84bdd49aa}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Host-based Card Emulation: development, security, and ecosystem impact analysis}
+      \field{year}{2014}
+      \verb{file}
+      \verb :/Users/thibautmaddelein/Documents/school/2018-2019/semester_2/bachelorproef/literatuurstudie/alattar2014.pdf:PDF
+      \endverb
+    \endentry
     \entry{SCA2014}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=058cd245eaa09ac35901dd3696405481}{%
