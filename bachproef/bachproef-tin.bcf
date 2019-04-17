@@ -2131,7 +2131,12 @@
     <bcf:citekey order="4">Alattar2014</bcf:citekey>
     <bcf:citekey order="5">Alattar2014</bcf:citekey>
     <bcf:citekey order="6">SCA2014</bcf:citekey>
-    <bcf:citekey order="7">Borko2014</bcf:citekey>
+    <bcf:citekey order="7">SCA2014</bcf:citekey>
+    <bcf:citekey order="8">SCA2014</bcf:citekey>
+    <bcf:citekey order="9">SCA2014</bcf:citekey>
+    <bcf:citekey order="10">SCA2014</bcf:citekey>
+    <bcf:citekey order="11">SCA2014</bcf:citekey>
+    <bcf:citekey order="12">Borko2014</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
