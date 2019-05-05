@@ -17,23 +17,25 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.2}Near Field Communication (NFC)}{16}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Beveiliging HCE}{17}{section.2.3}
+\contentsline {section}{\numberline {2.3}Secure Element (SE)}{17}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.1}White Box Cryptography}{17}{subsection.2.3.1}
+\contentsline {section}{\numberline {2.4}Beveiliging HCE}{17}{section.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.2}Tamper-Proofed Software}{18}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.4.1}White Box Cryptography}{18}{subsection.2.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.3}Biometric Factors}{18}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.4.2}Tamper-Proofed Software}{18}{subsection.2.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.4}Device Identity Solutions}{18}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.4.3}Biometric Factors}{18}{subsection.2.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.5}Security Frameworks/Trusted Execution Environment}{18}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.4.4}Device Identity Solutions}{19}{subsection.2.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.6}Encryption}{19}{subsection.2.3.6}
+\contentsline {subsection}{\numberline {2.4.5}Security Frameworks/Trusted Execution Environment}{19}{subsection.2.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.7}Tokenization}{19}{subsection.2.3.7}
+\contentsline {subsection}{\numberline {2.4.6}Encryption}{20}{subsection.2.4.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.8}Secure Element}{20}{subsection.2.3.8}
+\contentsline {subsection}{\numberline {2.4.7}Tokenization}{20}{subsection.2.4.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.8}Secure Element}{20}{subsection.2.4.8}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Methodologie}{21}{chapter.3}
 \defcounter {refsection}{0}\relax 

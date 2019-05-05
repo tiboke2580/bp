@@ -1,18 +1,18 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
-[0] Config.pm:305> INFO - Logfile is 'bachproef-tin.blg'
-[51] biber-darwin:313> INFO - === Tue Apr 16, 2019, 08:32:12
-[80] Biber.pm:371> INFO - Reading 'bachproef-tin.bcf'
-[210] Biber.pm:857> INFO - Found 4 citekeys in bib section 0
-[227] Biber.pm:3976> INFO - Processing section 0
-[241] Biber.pm:4136> INFO - Looking for bibtex format file 'bachproef-tin.bib' for section 0
-[243] bibtex.pm:1500> INFO - LaTeX decoding ...
-[255] bibtex.pm:1316> INFO - Found BibTeX data source 'bachproef-tin.bib'
-[275] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[275] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[309] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[309] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
-[309] Biber.pm:3804> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
-[310] Biber.pm:3810> INFO - No sort tailoring available for locale 'nl-NL'
-[320] bbl.pm:617> INFO - Writing 'bachproef-tin.bbl' with encoding 'UTF-8'
-[326] bbl.pm:720> INFO - Output to bachproef-tin.bbl
-[327] Biber.pm:110> INFO - WARNINGS: 2
+[1] Config.pm:305> INFO - Logfile is 'bachproef-tin.blg'
+[50] biber-darwin:313> INFO - === Wed Apr 17, 2019, 17:58:06
+[81] Biber.pm:371> INFO - Reading 'bachproef-tin.bcf'
+[195] Biber.pm:857> INFO - Found 4 citekeys in bib section 0
+[213] Biber.pm:3976> INFO - Processing section 0
+[227] Biber.pm:4136> INFO - Looking for bibtex format file 'bachproef-tin.bib' for section 0
+[231] bibtex.pm:1500> INFO - LaTeX decoding ...
+[244] bibtex.pm:1316> INFO - Found BibTeX data source 'bachproef-tin.bib'
+[266] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[266] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[283] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[283] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[283] Biber.pm:3804> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
+[283] Biber.pm:3810> INFO - No sort tailoring available for locale 'nl-NL'
+[290] bbl.pm:617> INFO - Writing 'bachproef-tin.bbl' with encoding 'UTF-8'
+[295] bbl.pm:720> INFO - Output to bachproef-tin.bbl
+[296] Biber.pm:110> INFO - WARNINGS: 2
